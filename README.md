@@ -22,7 +22,7 @@ Approach:
 - Filtered for earliest event per email
 - Grouped and counted leads by website
 
-Files:
-- Task Query.txt – Final SQL solution
-- Initial Query.txt, Input Query.txt – Schema and sample data
+SQL Files:
+- Task Query – Final SQL solution
+- Initial Query, Input Query – Schema and sample data
 - Analysis test SQL.DOCX – Task description
